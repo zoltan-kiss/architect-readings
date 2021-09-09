@@ -29,9 +29,11 @@ This is collection of readings for architects of different domains.
 * Dissolving the general confusion on the [difference between SOA and Microservcies](https://www.ibm.com/nl-en/cloud/learn/soa#toc-soa-vs-mic-BjTfju28)
 
 ### Integration architecture
+* [Enterprise integrattion patterns](https://www.enterpriseintegrationpatterns.com/toc.html)
 
 ### Security architecture
 * [5 pillars of information security](https://www.google.com/search?client=firefox-b-d&q=5+pillars+of+information+security)
+* [7 layers of defense in depth](https://cloudarchitecture.io/azure/fundamentals/security/defence-in-depth/) (DiD)
 * [Principles of least privilege](https://www.cyberark.com/what-is/least-privilege/)(PoLP)
 
 ### Data/Information architecture
