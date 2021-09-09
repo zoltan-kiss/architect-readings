@@ -9,11 +9,12 @@ This is collection of readings for architects of different domains.
 * Robert C. Martin - [5 (SOLID) principles of object oriented design (OOD)](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 * Architecture patterns
   * *Multi-layered architecture.*
-    * Tons of misleading, confusing, terrible diagrams and articles can be found on this topic mentioning things like 'database layer', 'application layer', 'service layer', etc. However, sadly, have not found any comprehensive document, which gives an overview of all layers of a classical multi-layred architecture as a single view: visualization layer -> presentation layer -> business logic layer -> data access layer -> persistence layer and the vertial component integration layer. Not talking about the general misunderstaing of layers and tiers, which mean different things. (*Tier != Layer*! Dissolving the general confusion on the the [difference between multi-layered and multi-tiered terms](https://www.c-sharpcorner.com/interview-question/what-is-the-difference-between-a-multilayer-and-multitier-applications.))
+    * Tons of misleading, confusing, terrible diagrams and articles can be found on this topic mentioning things like 'database layer', 'application layer', 'service layer', etc. However, sadly, have not found any comprehensive document, which gives an overview of all layers of a classical multi-layred architecture as a single view: visualization layer -> presentation layer -> business logic layer -> data access layer -> persistence layer and the vertial component integration layer. Not talking about the general misunderstaing of layers and tiers, which mean different things. Any other 
+    * *Tier != Layer*! Dissolving the general confusion on the the [difference between multi-layered and multi-tiered terms](https://www.c-sharpcorner.com/interview-question/what-is-the-difference-between-a-multilayer-and-multitier-applications.))
   * *Reactive architecture*
     * [Reactive manifesto](https://www.reactivemanifesto.org)
   * *Microservices arcitecture*
-    * [Microservices desig principles (IDEALS)](https://www.infoq.com/articles/microservices-design-ideals)
+    * [Microservices design principles (IDEALS)](https://www.infoq.com/articles/microservices-design-ideals)
 
 ### Systems architecture
 * L. Peter Deutsch - [8 fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
