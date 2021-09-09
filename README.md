@@ -32,7 +32,7 @@ This is collection of readings for architects of different domains.
 * [Enterprise integrattion patterns](https://www.enterpriseintegrationpatterns.com/toc.html)
 
 ### Security architecture
-* [5 pillars of information security](https://www.google.com/search?client=firefox-b-d&q=5+pillars+of+information+security)
+* [5 pillars of information security](https://www.siaonline.org/what-are-the-5-pillars-of-information-security)
 * [7 layers of defense in depth](https://cloudarchitecture.io/azure/fundamentals/security/defence-in-depth/) (DiD)
 * [Principles of least privilege](https://www.cyberark.com/what-is/least-privilege/)(PoLP)
 
