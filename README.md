@@ -1,4 +1,4 @@
-# Collection of readings for architects
+# Collection of architect readings
 This is collection of readings for architects of different domains.
 
 ## Architecture domains
